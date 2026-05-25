@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commercial Food Storyboard Generator"
+  short_description: "Generate premium food ad video storyboards"
+  default_prompt: "Use $commercial-food-storyboard-generator to create a 9:16 commercial food video storyboard for my product."
