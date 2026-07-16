@@ -1,0 +1,4 @@
+interface:
+  display_name: "INS 风 PLOG 图文策划"
+  short_description: "策划并可直接生成统一风格的社交平台 PLOG 图文"
+  default_prompt: "Use $ins-plog-content-planner to plan and directly generate a complete six-image INS-style PLOG set for my topic or product."
